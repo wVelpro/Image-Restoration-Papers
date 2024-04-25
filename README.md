@@ -1,7 +1,7 @@
 # Image-Restoration-Papers
 
 ## Overview
-- [Convolution](##Convolution)
+- [Convolution](#Convolution)
 - [Transformer](#Transformer)
 - [Mamba](#Mamba)
 
