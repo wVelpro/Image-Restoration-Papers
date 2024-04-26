@@ -22,4 +22,10 @@
 - **[DRSformer]** Learning A Sparse Transformer Network for Effective Image Deraining [[paper](https://arxiv.org/pdf/2303.11950.pdf)] [[code](https://github.com/cschenxiang/DRSformer)]
 
 ## Mamba
+- **[MambaIR]** MambaIR: A Simple Baseline for Image Restoration with State-Space Model [[paper](https://arxiv.org/pdf/2402.15648.pdf)] [[code](https://github.com/csguoh/MambaIR)]
+
+- **[VMamba]** VMamba: Visual State Space Model [[paper](https://arxiv.org/pdf/2401.10166v2)] [[code](https://github.com/MzeroMiko/VMamba)]
+
+
+
 
